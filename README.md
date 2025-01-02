@@ -7,13 +7,18 @@ Features:
 - add , update authors
 
 How to run:
-1. Clone repository: 
+1. Clone repository:
+```bash
 git clone https://github.com/ehsanniro/BookLibraryApi.git
-2. Make sure you have this packages
-MediatR
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Design
-3. Create database
+```
+3. restore packages
+```bash
+dotnet restore
+```
+
+4. Set up the database:
+
+```bash
 dotnet ef migrations add InitialCreate
 dotnet ef database update
+```
