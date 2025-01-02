@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\commands\\authorfeature\\authorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\commands\\authorfeature\\authorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\queries\\authorquery\\authorqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\queries\\authorquery\\authorqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\commands\\bookfeature\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\commands\\bookfeature\\bookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\queries\\authorquery\\authorquerieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\queries\\authorquery\\authorquerieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\queries\\bookquery\\bookquerieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\queries\\bookquery\\bookquerieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\queries\\bookquery\\bookqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\queries\\bookquery\\bookqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\commands\\authorfeature\\authorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\commands\\authorfeature\\authorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|c:\\users\\sadegh\\documents\\booklibraryapi\\handler\\commands\\bookfeature\\bookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034E27E-F1B0-4ABE-A99B-EFBB80F8B838}|BookLibraryAPI.csproj|solutionrelative:handler\\commands\\bookfeature\\bookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:38:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\AuthorQuery\\AuthorQueries.cs",
+              "RelativeDocumentMoniker": "Handler\\Queries\\AuthorQuery\\AuthorQueries.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\AuthorQuery\\AuthorQueries.cs",
+              "RelativeToolTip": "Handler\\Queries\\AuthorQuery\\AuthorQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:20:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\BookFeature\\BookCommand.cs",
+              "RelativeDocumentMoniker": "Handler\\Commands\\BookFeature\\BookCommand.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\BookFeature\\BookCommand.cs",
+              "RelativeToolTip": "Handler\\Commands\\BookFeature\\BookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:45:36.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\AuthorFeature\\AuthorCommand.cs",
+              "RelativeDocumentMoniker": "Handler\\Commands\\AuthorFeature\\AuthorCommand.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\AuthorFeature\\AuthorCommand.cs",
+              "RelativeToolTip": "Handler\\Commands\\AuthorFeature\\AuthorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:49:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorQueriesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\AuthorQuery\\AuthorQueriesHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\Queries\\AuthorQuery\\AuthorQueriesHandler.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\AuthorQuery\\AuthorQueriesHandler.cs",
+              "RelativeToolTip": "Handler\\Queries\\AuthorQuery\\AuthorQueriesHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:20:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:44:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:59:36.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookQueriesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\BookQuery\\BookQueriesHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\Queries\\BookQuery\\BookQueriesHandler.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\BookQuery\\BookQueriesHandler.cs",
+              "RelativeToolTip": "Handler\\Queries\\BookQuery\\BookQueriesHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:18:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\BookQuery\\BookQueries.cs",
+              "RelativeDocumentMoniker": "Handler\\Queries\\BookQuery\\BookQueries.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Queries\\BookQuery\\BookQueries.cs",
+              "RelativeToolTip": "Handler\\Queries\\BookQuery\\BookQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:14:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\AuthorFeature\\AuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\Commands\\AuthorFeature\\AuthorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\AuthorFeature\\AuthorCommandHandler.cs",
+              "RelativeToolTip": "Handler\\Commands\\AuthorFeature\\AuthorCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:52:23.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\BookFeature\\BookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\Commands\\BookFeature\\BookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Sadegh\\Documents\\BookLibraryAPI\\Handler\\Commands\\BookFeature\\BookCommandHandler.cs",
+              "RelativeToolTip": "Handler\\Commands\\BookFeature\\BookCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:48:23.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
